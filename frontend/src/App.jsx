@@ -1,11 +1,9 @@
-import './App.css'
+import ButtonA from "./components/buttons/ButtonA";
 
 function App() {
   return (
     <>
-      <div>
-          Hello World
-      </div>
+      <ButtonA>Click me!</ButtonA>
     </>
   )
 }
