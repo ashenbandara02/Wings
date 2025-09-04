@@ -1,0 +1,121 @@
+{
+    "nav_home": "Home",
+    "nav_about": "Chi siamo",
+    "nav_gallery": "Galleria",
+    "nav_resources": "Strumenti",
+    "nav_projects": "Progetti",
+    "nav_blog": "Blog",
+    "nav_login": "Login",
+    "join_us_one": "Unisciti a noi",
+    "read_this_article": "Leggi l’articolo",
+
+    "green_join_us": "Unisciti a noi!",
+    "green_see_projects": "Vedi i nostri progetti",
+    "green_contact_us": "Contattaci",
+
+    "home_section_one_title_one": "Unisciti a una comunità che promuove la cultura e la passione per l’aviazione attraverso l’apprendimento, la condivisione e l’innovazione.",
+    "home_section_one_title_two": "Il futuro dell’<highlight>aviazione</highlight> comincia da qui",
+    
+    "home_section_two_title_one": "Una volta che avrai conosciuto il volo, camminerai sulla terra con lo sguardo rivolto al cielo, perché là sei stato, e là desidererai tornare.",
+    "home_section_two_title_one_two": "-Leonardo Da Vinci",
+    "home_section_two_title_tag": "Pronti alla partenza!",
+    
+    "home_section_three_title_tag": "Sostienici!",
+    "home_section_three_title2": "Ogni progetto è un passo verso nuovi orizzonti.",
+    "home_section_three_contenta": "Con il tuo supporto possiamo realizzare attività, incontri e iniziative dedicate ai soci e agli appassionati. Scopri cosa stiamo  preparando e come puoi contribuire.",
+    "home_section_three_contentb": "Scopri i nostri progetti e il modo in cui puoi contribuire a dare forma al futuro della cultura aeronautica.",
+
+    "home_section_four_collab_title": "Hai una domanda? Vuoi collaborare?",
+    "home_section_four_collab_sub_title": "Ci piacerebbe sentirti volare con noi.",
+    "home_section_four_collab_content": "Scrivici per saperne di più sul progetto, per proporre un’idea o per iniziare un percorso con la nostra associazione.Il volo comincia dal primo contatto.",
+
+
+    "about_section_one_title_one": "“We inspire new generations in the sky”",
+    "about_section_one_titlea": "Wings è un’Associazione di Promozione Sociale che nasce con un obiettivo chiaro: ispirare e accompagnare le nuove generazioni verso le professioni del mondo aeronautico, offrendo strumenti concreti, formazione di qualità e un ambiente dinamico in cui crescere.",
+    "about_section_one_titleb": "Non ci rivolgiamo solo ai piloti, ma a tutti i futuri professionisti dell’aviazione: tecnici, controllori di volo, ingegneri, dispatcher, operatori aeroportuali e appassionati che vogliono trasformare una passione in un percorso professionale",
+
+    "about_section_two_title_one": "La nostra missione",
+    "about_section_two_content": "Crediamo che l’aviazione sia un settore ricco di opportunità, ma ancora troppo distante da molti giovani. Per questo vogliamo colmare il divario tra formazione e mondo del lavoro, facilitando l’accesso alle informazioni, alle competenze e alle reti professionali.",
+
+    "about_section_three_title_tag": "Cosa facciamo",
+    "about_section_three_point_one": "Promuoviamo la cultura aeronautica attraverso eventi, attività divulgative e progetti educativi",
+    "about_section_three_point_two": "Creiamo percorsi di orientamento per aiutare a scoprire le diverse carriere nel settore",
+    "about_section_three_point_three": "Realizziamo corsi di formazione, in collaborazione con esperti ed enti specializzati",
+    "about_section_three_point_four": "Avviamo convenzioni e partnership con scuole di volo, centri di formazione, enti e imprese del settore aerospaziale",
+    "about_section_three_point_five": "Offriamo strumenti pratici e supporto a chi vuole iniziare o consolidare il proprio percorso professionale",
+
+    "about_section_four_title_tag": "I nostri valori",
+    "about_section_four_content_one_title": "Accessibilità",
+    "about_section_four_content_one_content": "rendere l’aviazione un’opportunità concreta per tutt",
+    "about_section_four_content_two_title": "Passione e competenza",
+    "about_section_four_content_two_content": "uniamo entusiasmo e professionalità",
+    "about_section_four_content_three_title": "Inclusività",
+    "about_section_four_content_three_content": "valorizziamo ogni percorso e ogni talento",
+    "about_section_four_content_four_title": "Etica e responsabilità",
+    "about_section_four_content_four_content": "promuoviamo un’aviation culture basata su sicurezza e integrità",
+    "about_section_four_content_five_title": "Comunità",
+    "about_section_four_content_five_content": "crediamo nella forza del gruppo per crescere e affrontare le sfide insieme",
+
+    "about_section_five_title": "Unisciti al nostro volo",
+    "about_section_five_content_one": "Hai la passione per il mondo aeronautico?",
+    "about_section_five_content_two": "Che tu sia uno studente, un aspirante professionista o semplicemente un appassionato, Wings è il posto giusto per te.",
+    "about_section_five_content_button_a": "Unisciti a Wings",
+    "about_section_five_content_button_b": "Scopri i nostri progetti",
+
+
+    "projects_section_one_title_one": "Costruiamo insieme il futuro dell’aviazione",
+    "projects_section_one_title_two": "Wings sviluppa strumenti e programmi pensati per supportare studenti, appassionati e futuri professionisti del settore aeronautico. Dalla teoria al mondo del lavoro, i nostri progetti mirano a colmare il divario tra istruzione e mercato occupazionale.",
+    
+    "projects_section_two_title_tag": "I nostri progetti",
+    "projects_section_two_support": "Sostieni il progetto con una donazione",
+    "projects_section_two_join_testing_phase": "Partecipa alla fase di test",
+    "projects_section_two_support_short": "Sostieni il progetto",
+    "projects_section_two_help_us_launch": "Aiutaci a lanciare il progetto",
+    "projects_section_two_keep_me_updated": "Tienimi aggiornato",
+    "projects_section_know_a_school_or_organization": "Conosci una scuola o organizzazione? Facci sapere",
+    "projects_section_join_initiatives": "Partecipa alle iniziative",
+    
+    "projects_one_title": "Logbook smart per piloti",
+    "projects_one_description": "Un logbook digitale, conforme EASA e accessibile ovunque. Il nostro logbook digitale semplifica il tracciamento delle ore di volo, automatizza i calcoli, genera report e aiuta i piloti di ogni livello a monitorare i propri progressi.",
+    "projects_one_bulleta": "Destinatari: piloti in formazione e professionisti",
+    "projects_one_bulletc": "Stato: in fase di sviluppo",
+    "projects_one_bulletb": "Prossimo passo: test con utenti selezionati",
+    
+    "projects_two_title": "Piattaforma CBT – Corso Teorico PPL",
+    "projects_two_description": "Corso di teoria PPL in formato digitale, accessibile e interattivo. Slide, quiz e strumenti multimediali per rendere lo studio più coinvolgente ed efficace.",
+    "projects_two_bulleta": "Destinatari: Aspiranti corsisti PPL",
+    "projects_two_bulletc": "Stato: in fase di pianificazione",
+    "projects_two_bulletb": "Prossimo passo: avvio della fase di sviluppo",
+    
+    "projects_three_title": "Piattaforma Quiz",
+    "projects_three_description": "Un sistema completo per esercitarsi sugli esami di teoria PPL e ATPL. Domande suddivise per argomenti, spiegazioni dettagliate, statistiche e strumenti per monitorare i progressi.",
+    "projects_three_bulleta": "Destinatari: studenti PPL e ATPL",
+    "projects_three_bulletc": "Stato: in fase di pianificazione",
+    "projects_three_bulletb": "Prossimo passo: sviluppo della prima versione",
+    
+    "projects_four_title": "Corsi di Inglese Aeronautico",
+    "projects_four_description": "a lingua dell’aviazione, insegnata in modo chiaro ed efficace. Percorsi formativi incentrati sulla comunicazione radio, fraseologia ICAO e competenza linguistica per il settore aeronautico.",
+    "projects_four_bulleta": "Destinatari: futuri piloti, controllori del traffico aereo, tecnici",
+    "projects_four_bulletc": "Stato: in arrivo",
+    "projects_four_bulletb": "Prossimo passo: selezione dei formatori e progettazione del curriculum",
+    
+    "projects_five_title": "Collaborazioni con Scuole e Centri di Formazione",
+    "projects_five_description": "Stiamo costruendo una rete di opportunità. Collaboriamo con scuole di volo, centri di formazione e aziende aeronautiche per offrire programmi speciali e vantaggi ai membri di Wings.",
+    "projects_five_bulleta": "Destinatari: membri Wings",
+    "projects_five_bulletc": "Stato: alla ricerca di nuovi partner e accordi",
+    "projects_five_bulletb": "Prossimo passo: ampliamento della rete di collaborazioni",
+    
+    "projects_six_title": "Progetto Carriere & Orientamento",
+    "projects_six_description": "Dal sogno al decollo: trova la tua strada nell’aviazione. Incontra professionisti, partecipa a career day e webinar, e ricevi supporto per passare dalla formazione al lavoro.",
+    "projects_six_bulleta": "Destinatari: studenti e giovani professionisti in transizione",
+    "projects_six_bulletc": "Stato: in fase di pianificazione",
+    "projects_six_bulletb": "Prossimo passo: lancio del calendario eventi 2025",
+    
+    "project_last_section_title": "Hai un’idea? Collabora con noi!",
+    "project_last_section_description": "Siamo sempre aperti a nuove proposte. Se hai una competenza da condividere o un progetto che vorresti sviluppare con noi, facciamolo decollare insieme.",
+    "project_last_section_button": "Proponi un progetto",
+          
+
+    "blog_section_head_title": "Resta aggiornato sulle novità in aviazione, formazione ed eventi dalla community Wings",
+    "blog_section_title_tag": "Blog Wings"
+}

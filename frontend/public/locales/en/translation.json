@@ -1,0 +1,122 @@
+{
+    "nav_home": "Home",
+    "nav_about": "About",
+    "nav_gallery": "Gallery",
+    "nav_resources": "Resources",
+    "nav_projects": "Projects",
+    "nav_blog": "Blog",
+    "nav_login": "Login",
+    "join_us_one": "Join Us",
+    "read_this_article": "Read this article",
+    
+    "green_join_us": "Join Us",
+    "green_see_projects": "See our Projects",
+    "green_contact_us": "Contact us",
+
+
+    "home_section_one_title_one": "Join a community that promotes aviation culture and passion through learning, sharing, and innovation.",
+    "home_section_one_title_two": "Where the next generation of <highlight>aviation</highlight> begins.",
+    
+    "home_section_two_title_one": "Once you have tasted flight, you will walk the earth with your eyes turned skyward, for there you have been, and there you will long to return.",
+    "home_section_two_title_one_two": "-Leonardo Da Vinci",
+    "home_section_two_title_tag": "Ready for departure",
+    
+    "home_section_three_title_tag": "Support us",
+    "home_section_three_title2": "Every project is a step toward new horizons.",
+    "home_section_three_contenta": "With your help, we can carry out activities, events, and initiatives dedicated to members and aviation enthusiasts. Discover what we’re working on and how you can contribute.",
+    "home_section_three_contentb": "Discover our projects and find out how you can take part in shaping the future of aviation culture.",
+
+    "home_section_four_collab_title": "Got a question? Want to collaborate?",
+    "home_section_four_collab_sub_title": "We’d love to hear you take off with us.",
+    "home_section_four_collab_content": "Write to us to learn more about the project, propose an idea, or start your journey with our association. Your flight begins with the first contact.",
+    
+
+    "about_section_one_title_one": "We inspire new generations in the sky",
+    "about_section_one_titlea": "Wings is a Non-profit association (APS - Associazione di Promozione Sociale, pursuant to Italian Legislative Decree 117/2017) founded with a clear goal: to inspire and support the new generations towards careers in the aviation industry, by providing concrete tools, quality training, and a dynamic environment to grow.",
+    "about_section_one_titleb": "We are not only focused on pilots, but on all future aviation professionals: technicians, air traffic controllers, engineers, dispatchers, airport operators, and enthusiasts who want to turn their passion into a professional path.",
+
+    "about_section_two_title_one": "Our Mission",
+    "about_section_two_content": "We believe aviation is a sector full of opportunities, but still too distant from many young people. That’s why we aim to bridge the gap between education and the job market by facilitating access to information, skills, and professional networks.",
+
+    "about_section_three_title_tag": "What We Do",
+    "about_section_three_point_one": "We promote aviation culture through events, educational activities, and outreach projects",
+    "about_section_three_point_two": "We create orientation programs to help discover the different careers in aviation",
+    "about_section_three_point_three": "We offer training courses in collaboration with experts and specialized institutions",
+    "about_section_three_point_four": "We establish agreements and partnerships with flight schools, training centers, aviation companies and institutions",
+    "about_section_three_point_five": "We provide practical tools and guidance to those starting or advancing their professional journey",
+
+    "about_section_four_title_tag": "Our Values",
+    "about_section_four_content_one_title": "Accessibility",
+    "about_section_four_content_one_content": "making aviation a real opportunity for everyone",
+    "about_section_four_content_two_title": "Passion and expertise",
+    "about_section_four_content_two_content": "we combine enthusiasm and professionalism",
+    "about_section_four_content_three_title": "Inclusiveness",
+    "about_section_four_content_three_content": "we value every path and every talent",
+    "about_section_four_content_four_title": "Ethics and responsibility",
+    "about_section_four_content_four_content": "we promote an aviation culture based on safety and integrity",
+    "about_section_four_content_five_title": "Community",
+    "about_section_four_content_five_content": "we believe in the power of growing together and supporting one another",
+
+    "about_section_five_title": "Join Our Journey",
+    "about_section_five_content_one": "Are you passionate about aviation?",
+    "about_section_five_content_two": "Whether you're a student, a future professional, or simply an enthusiast, Wings is the right place for you.",
+    "about_section_five_content_button_a": "Join Wings",
+    "about_section_five_content_button_b": "Discover Projects",
+
+
+    "projects_section_one_title_one": "Let’s build the future of aviation together",
+    "projects_section_one_title_two": "Wings develops tools and programs designed to support students, enthusiasts, and future aviation professionals. From theory to employment, our projects aim to bridge the gap between education and the job market.",
+
+    "projects_section_two_title_tag": "Our Projects",
+    "projects_section_two_support": "Support the project with a donation",
+    "projects_section_two_join_testing_phase": "Join the testing phase",
+    "projects_section_two_support_short": "Support the project",
+    "projects_section_two_help_us_launch": "Help us launch the project",
+    "projects_section_two_keep_me_updated": "Keep me updated",
+    "projects_section_know_a_school_or_organization": "Know a school or organization to recommend? Let us know",
+    "projects_section_join_initiatives": "Join the initiatives",
+
+    "projects_one_title": "Smart Logbook for Pilots",
+    "projects_one_description": "A digital logbook, EASA-compliant and accessible anywhere. Our smart logbook simplifies flight hour tracking, automates calculations, generates reports, and helps pilots at every level monitor their progress.",
+    "projects_one_bulleta": "Target: student and professional pilots",
+    "projects_one_bulletc": "Status: in development",
+    "projects_one_bulletb": "Next step: testing with selected users",
+
+    "projects_two_title": "CBT Platform – PPL Theory Course",
+    "projects_two_description": "PPL theoretical training in a digital, accessible, and interactive format. Slides, quizzes, and multimedia tools to make studying more engaging and effective.",
+    "projects_two_bulleta": "Target: PPL students",
+    "projects_two_bulletc": "Status: planned",
+    "projects_two_bulletb": "Next step: begin development phase",
+
+    "projects_three_title": "Quiz Platform",
+    "projects_three_description": "A complete system for practicing aviation theory exams. Topic-based questions, detailed explanations, statistics, and progress tracking tools.",
+    "projects_three_bulleta": "Target: PPL and ATPL students",
+    "projects_three_bulletc": "Status: in planning",
+    "projects_three_bulletb": "Next step: first version development",
+
+    "projects_four_title": "Aviation English Courses",
+    "projects_four_description": "The language of aviation, taught clearly and effectively. Training paths focused on radio communication, ICAO phraseology, and language proficiency for aviation.",
+    "projects_four_bulleta": "Target: aspiring pilots, ATCOs, technicians",
+    "projects_four_bulletc": "Status: upcoming",
+    "projects_four_bulletb": "Next step: trainer selection and curriculum design",
+
+    "projects_five_title": "Partnerships with Schools and Training Centers",
+    "projects_five_description": "We’re building a network of opportunities. We collaborate with flight schools, training centers, and aviation companies to offer special programs and benefits to Wings members.",
+    "projects_five_bulleta": "Target: Wings members",
+    "projects_five_bulletc": "Status: Seeking new partners and agreements",
+    "projects_five_bulletb": "Next step: Expanding the partner network",
+    
+    "projects_six_title": "Career & Orientation Project",
+    "projects_six_description": "From dream to takeoff: find your path in aviation. Meet professionals, attend career days and webinars, and get support to move from training to employment.",
+    "projects_six_bulleta": "Target: students and young professionals in transition",
+    "projects_six_bulletc": "Status: in planning",
+    "projects_six_bulletb": "Next step: launch of the 2025 events calendar",
+
+    "project_last_section_title": "Have an idea? Collaborate with us!",
+    "project_last_section_description": "We are always open to new proposals. If you have a skill to share or a project you’d like to develop with us—let’s make it fly together.",
+    "project_last_section_button": "Propose a project",
+
+
+    "blog_section_head_title": "Stay updated with the latest in aviation, education, and events from the Wings community",
+    "blog_section_title_tag": "Wings Blogs"
+}
